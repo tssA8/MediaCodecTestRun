@@ -8,14 +8,16 @@ This application is a sample Android Studio project with MediaCodec Test Run.
 Usage
 -----
 
-step1 : 
+ *step1 : 
 copy these files and put it into your project
-1.CodecManager.java
-2.MediaCodecTest.java
-3.NV21Convertor.java
-4.VideoQuality.java
 
-step2:
+```
+        1.CodecManager.java
+        2.MediaCodecTest.java
+        3.NV21Convertor.java
+        4.VideoQuality.java
+```
+ *step2:
 init MediaCodecTest like : 
 ```
         if(mMediaCodeTest == null) {
@@ -24,7 +26,7 @@ init MediaCodecTest like :
             mMediaCodeTest.onStartTest();
         }
 ```
-step3:
+ *step3:
  * Add the following lines in the `AndroidManifest.xml` file
 
     ```
