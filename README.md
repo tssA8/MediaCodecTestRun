@@ -8,10 +8,8 @@ This application is a sample Android Studio project with MediaCodec Test Run.
 Usage
 -----
 
-copy these files and put it into your project
-
 step1 : 
-
+copy these files and put it into your project
 1.CodecManager.java
 2.MediaCodecTest.java
 3.NV21Convertor.java
