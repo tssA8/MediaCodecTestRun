@@ -8,7 +8,7 @@ This application is a sample Android Studio project with MediaCodec Test Run.
 Usage
 -----
 
-copy the 4 files in your project
+copy these files and put it into your project
 
 step1 : 
 
