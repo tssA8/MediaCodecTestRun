@@ -27,8 +27,7 @@ init MediaCodecTest like :
         }
 ```
 step3:
-* Grant camera permission
-  * Add the following lines in the `AndroidManifest.xml` file
+ * Add the following lines in the `AndroidManifest.xml` file
 
     ```
     <uses-feature android:name="android.hardware.camera" />
